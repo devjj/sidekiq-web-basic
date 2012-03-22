@@ -1,3 +1,4 @@
+# https://github.com/mperham/sidekiq/wiki/Monitoring
 require 'sidekiq'
 
 Sidekiq.configure_client do |config|
