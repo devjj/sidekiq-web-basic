@@ -1,0 +1,6 @@
+Minimal sidekiq-web app.
+
+1. git clone
+2. bundle install
+3. rackup
+4. Visit http://localhost:9292/
